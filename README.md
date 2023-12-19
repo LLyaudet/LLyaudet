@@ -2,7 +2,7 @@
 
 I have a website there: <https://lyaudet.eu/laurent/>.
 
-Here, on GitHub, I have currently 8 public repositories that I created,
+Here, on GitHub, I have currently 9 public repositories that I created,
 plus many other contributions to FOSS projects (most of the time correction of typos).
 
 Since I cannot pin more than 6 projects, here is a list:
@@ -17,6 +17,8 @@ Since I cannot pin more than 6 projects, here is a list:
   available on PyPi: <https://pypi.org/project/django-monkey-patches/>,
 - python-none-objects: <https://github.com/LLyaudet/python-none-objects> Python language enhancement (LGPL),
   available on PyPi: <https://pypi.org/project/python-none-objects/>,
+- python-repeatable-iterable: <https://github.com/LLyaudet/python-repeatable-iterable> Python language enhancement (LGPL),
+  available on PyPi: <https://pypi.org/project/python-repeatable-iterable/>,
 
 <!--
 **LLyaudet/LLyaudet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
