@@ -3,7 +3,7 @@
 I have a website there: <https://lyaudet.eu/laurent/>.
 
 Here, on GitHub,
-I have currently 10 public repositories that I created,
+I have currently more than 10 public repositories that I created,
 plus many other contributions to FOSS projects
 (most of the time correction of typos).
 My personal repository is here:
