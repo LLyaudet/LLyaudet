@@ -34,8 +34,10 @@ features like:
   some may do one method and others do another,
   some may do the same than others,
   some may know what the others do,
-  both may know what the others do and both may know that the other know,
-  or both may know what the others do and one may know that the other know,
+  both may know what the others do
+  and both may know that the other know,
+  or both may know what the others do
+  and one may know that the other know,
   etc. XD;
   At first, I was thinking it was pure logic,
   and I was not that happy about it;
@@ -144,7 +146,12 @@ in fact since I chose to ignore the risk of giving some sticks,
 this is ambiguous;
 after some time, you're not that clean anymore,
 but then brainwashing, hypnosis, etc. hard to tell;
-Always remember "The wolf and the lamb.")
+Always remember "The wolf and the lamb",
+but mind the habit also after minding the intent,
+again sometimes hard to tell.
+The/your/theirs, try to help yourself or someone else when you can.
+Avoiding something may be a way to help more than one person
+including you.)
 
 Here is the closing request:
 Bonjour,
