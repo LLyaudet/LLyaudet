@@ -42,6 +42,10 @@ Partitionnement d'hypergraphes.
 Réunion MAO, ENS Lyon, avril 2005.
 https://lyaudet.eu/laurent/communications.html
 to talk about ordonnancing with chalk on black board XD.
+Mind my intent: I did not want to give a stick,
+I was fed up by some teachers reading powerpoints,
+and I liked the idea to have a single sheet of notes
+to do a full presentation at the black board.
 At this time, I had a state of mind like:
 https://www.youtube.com/watch?v=vcjWy1oAKzo
 I have this state of mind more or less often
@@ -57,7 +61,7 @@ Do not waste time culpabilizing:
 "Did I gave a stick blabla?".
 One of the tricks of the devil
 is to make you find a stick and
-to wait that you give it to someone
+to wait that you give it to someone or give it back to him/her...
 or force you to do so,
 "pour faire d'un coup, 2 pierres.".
 (One step further, there is
@@ -65,6 +69,32 @@ or force you to do so,
 "Changed dress?", etc.
 A little of street life can vaccinate
 for wrong prerequisites for something.)
+"then it is not a viable form of life.":
+kind of extremist, no?
+I tried to correct my thinking and avoid to give sticks
+(but not closing my mouth all the time)
+for a good part of the last 10 years,
+spoiler: it changes nothing...
+Some people will change their mind and avoid beating you with a stick
+after some years, but there is an endless supply of new assholes...
+Only God knows if someone will turn back
+of his wrong ways at some point.
+Clearly, with only one life that's not the case of everyone.
+Cherry on the cake is brainwashing, hypnosis, etc.
+"Give it back to": mind some "parity problems",
+how many ping-pong, billiard strips rebounds?
+I keep in mind the ratio in the Bible (50%, 50%),
+unless there is a strong proof otherwise,
+regarding physical strength (men, women, childs),
+there is a strong proof, but that's not the full picture,
+mind soldier-children...
+https://en.wikipedia.org/wiki/Children_in_the_military
+Unfortunately, most people can not handle this kind of problems,
+like children in U.S.S.R. reporting their parents as not communists.
+99%, 1% but it exists.
+Not only in the military... not only in Africa...
+There can be 2 or more victims/pierres.
+Mad world.
 
 Since I had a clear goal of not avoiding problems
 that I saw,
@@ -82,21 +112,41 @@ Below you will read:
 "I'm trying to help the free software community"
 I am/was conscious that it sounds suspicious.
 Yes it was another stick...
+Mind my intent: I wrote it that way just to be frank,
+and it was corresponding to my feeling like "The Ugly Duckling".
 Because, when I wrote this, I was a professional developper.
 Moreover, I already experienced BS feedback in the FOSS community.
 Fun fact: I continue...
+(to experience BS,
+to give sticks mainly by being frank or unintentionally,
+in fact since I chose to ignore the risk of giving some sticks,
+this is ambiguous;
+after some time, you're not that clean anymore,
+but then brainwashing, hypnosis, etc. hard to tell;
+Always remember "The wolf and the lamb.")
 
 Here is the closing request:
 Bonjour,
 
 Je voudrais désactiver ma page Sponsor de GitHub.
-Pendant un temps je pensais que peut-être un jour je vivrais de mon travail sur du code open source.
-Maintenant, je pense que ça ne sert à rien, sauf peut-être à attirer des moqueries,
-voire des malédictions si certains attribuent la paternité de bouts de code à Dieu ou à d'autres personnes,
-en mode : Soit c'est l'Esprit qui l'inspire, soit c'est un espion comme le suggèrent plein d'enfoirés sur ma vie depuis longtemps, soit c'est le mauvais qui l'inspire. En gros, difficile de sortir vainqueur sur le plan personnel.
+Pendant un temps je pensais que peut-être un jour
+je vivrais de mon travail sur du code open source.
+Maintenant, je pense que ça ne sert à rien,
+sauf peut-être à attirer des moqueries,
+voire des malédictions si certains attribuent la paternité
+de bouts de code à Dieu ou à d'autres personnes,
+en mode : Soit c'est l'Esprit qui l'inspire,
+soit c'est un espion comme le suggèrent plein d'enfoirés sur ma vie
+depuis longtemps, soit c'est le mauvais qui l'inspire.
+En gros, difficile de sortir vainqueur sur le plan personnel.
 
 Merci d'avance, bien cordialement,
 Laurent Lyaudet
+
+
+-----
+"ou à d'autres personnes": Especially when someone makes my code
+disappear and I redo it months or years later.
 
 
 ## Short Bio
@@ -176,7 +226,7 @@ in Sponsor.txt file on one of my repositories
 (Example: John Doe sponsored this library: 2014-2020, 420$).
 
 
-### $200 a month(Was it $400 in my memory?)
+### $200 a month (Was it $400 in my memory?)
 
 A big thank you for valuing my work.
 I will work on the functionnalities you would like to be
