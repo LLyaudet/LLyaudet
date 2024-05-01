@@ -4,6 +4,7 @@ I have a website there: <https://lyaudet.eu/laurent/>.
 
 Here, on GitHub, I have currently 9 public repositories that I created,
 plus many other contributions to FOSS projects (most of the time correction of typos).
+My personal repository is here: <https://github.com/LLyaudet/LLyaudet>.
 
 Since I cannot pin more than 6 projects, here is a list:
 
