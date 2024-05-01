@@ -9,7 +9,8 @@ plus many other contributions to FOSS projects
 My personal repository is here:
 <https://github.com/LLyaudet/LLyaudet>.
 
-Since I cannot pin more than 6 projects, here is a list:
+Since I cannot pin all my projects on my GitHub profile page,
+here is a list:
 
 - TSODLULS: <https://github.com/LLyaudet/TSODLULS> a C library (LGPL),
 - transliteration_profile_iconv:
@@ -41,6 +42,9 @@ Since I cannot pin more than 6 projects, here is a list:
   Python language enhancement (LGPL),
   available on PyPi:
   <https://pypi.org/project/python-repeatable-iterable/>,
+
+Please have a look at:
+<https://github.com/LLyaudet/LLyaudet/discussions/2>
 
 <!--
 **LLyaudet/LLyaudet** is a ✨ _special_ ✨

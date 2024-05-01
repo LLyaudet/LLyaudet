@@ -60,17 +60,17 @@ When I was a PhD student, my third PhD advisor told me:
 "Ne donne pas le bâton pour te faire battre."
 "Don't give the stick to be beaten with."
 Because I had voluntarily done a presentation of my work:
-https://www.sciencedirect.com/science/article/pii/S0304397509006252
+<https://www.sciencedirect.com/science/article/pii/S0304397509006252>
 Partitionnement d'hypergraphes.
 Réunion MAO, ENS Lyon, avril 2005.
-https://lyaudet.eu/laurent/communications.html
+<https://lyaudet.eu/laurent/communications.html>
 to talk about ordonnancing with chalk on black board XD.
 Mind my intent: I did not want to give a stick,
 I was fed up by some teachers reading powerpoints,
 and I liked the idea to have a single sheet of notes
 to do a full presentation at the black board.
 At this time, I had a state of mind like:
-https://www.youtube.com/watch?v=vcjWy1oAKzo
+<https://www.youtube.com/watch?v=vcjWy1oAKzo>
 I have this state of mind more or less often
 in various periods of my life.
 And I was like:
@@ -111,7 +111,7 @@ unless there is a strong proof otherwise,
 regarding physical strength (men, women, childs),
 there is a strong proof, but that's not the full picture,
 mind soldier-children...
-https://en.wikipedia.org/wiki/Children_in_the_military
+<https://en.wikipedia.org/wiki/Children_in_the_military>
 Unfortunately, most people can not handle this kind of problems,
 like children in U.S.S.R. reporting their parents as not communists.
 99%, 1% but it exists.
@@ -238,7 +238,7 @@ And at the moment, I am a full stack dev at Deleev/LaBelleVie.
 I contribute on my free time.
 
 If you sponsor me, please get in touch:
-https://github.com/LLyaudet/LLyaudet/discussions/1
+<https://github.com/LLyaudet/LLyaudet/discussions/1>
 
 Best regards,
    Laurent Lyaudet
