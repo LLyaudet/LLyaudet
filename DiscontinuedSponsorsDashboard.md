@@ -25,6 +25,27 @@ features like:
   executable
   (B.I.: Backdoor Included? or just Beacon Included?)
   when you want this feature;
+  if there is a B.I., it may not be the fact of the maintainer
+  of the executable, but probably of some group of people
+  torpedoing any possibility of including this feature in the OS;
+  moreover, it may not be "included", small packets may be easier
+  to "screen" among Internet trafic, or the download server may keep
+  track of Internet addresses,
+  some may do one method and others do another,
+  some may do the same than others,
+  some may know what the others do,
+  both may know what the others do and both may know that the other know,
+  or both may know what the others do and one may know that the other know,
+  etc. XD;
+  At first, I was thinking it was pure logic,
+  and I was not that happy about it;
+  But, first I went to hospital and then I saw this:
+  "There is a pleasure in being mad which none but madmen know.",
+  John Dryden,
+  or maybe I saw this a few month or years before going to hospital.
+  After some point, paranoid becomes a kind of second PhD...
+  because unfortunately logic about some topics is not always
+  regarded as logic.
 - reading Linux partitions on Windows
   (maybe it changed recently),
   I say this because I had a new computer hacked
