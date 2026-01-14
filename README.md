@@ -42,6 +42,9 @@ here is a list:
   Python language enhancement (LGPL),
   available on PyPi:
   <https://pypi.org/project/python-repeatable-iterable/>,
+- DependenciesDoneRight:
+  <https://github.com/LLyaudet/DependenciesDoneRight>
+  a POC and a rant ;) (MIT),
 
 Please have a look at:
 <https://github.com/LLyaudet/LLyaudet/discussions/2>
